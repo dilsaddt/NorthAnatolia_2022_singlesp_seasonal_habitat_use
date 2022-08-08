@@ -10,4 +10,4 @@ wild boar (Sus scrofa), roe deer (Capreolus capreolus), European hare (Lepus eur
 Here, as an example only the analysis of roe deer (Capreolus capreolus) is given. 
 For more information and any questions please do not hesitate to get in touch: dilsad.dagtekin@ieu.uzh.ch
 
-# This is an updated analysis based on reviewer comments on July 2022.
+This is an updated analysis based on reviewer comments on July 2022.
