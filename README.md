@@ -4,10 +4,10 @@ The code for analysing seasonal habitat use of large mammals in northwestern Ana
 and single-species dynamic occupancy models.
 
 In total eight species were analyzed: 
-brown bear (Ursus arctos), Eurasian lynx (_Lynx lynx_), gray wolf (Canis lupus), red fox (Vulpes vulpes), 
-wild boar (Sus scrofa), roe deer (Capreolus capreolus), European hare (Lepus europaeus), and red deer (Cervus elaphus).
+brown bear (_Ursus arctos_), Eurasian lynx (_Lynx lynx_), gray wolf (_Canis lupus_), red fox (_Vulpes vulpes_), 
+wild boar (_Sus scrofa_), roe deer (_Capreolus capreolus_), European hare (_Lepus europaeus_), and red deer (_Cervus elaphus_).
 
-Here, as an example only the analysis of roe deer (Capreolus capreolus) is given. 
+Here, as an example only the analysis of roe deer (_Capreolus capreolus_) is given. 
 For more information and any questions please do not hesitate to get in touch: dilsad.dagtekin@ieu.uzh.ch
 
 This is an updated analysis based on reviewer comments on November 2022.
