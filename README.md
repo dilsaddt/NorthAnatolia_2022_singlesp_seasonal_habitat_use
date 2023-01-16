@@ -29,8 +29,8 @@ camtrap_effort_Ndays.csv = number of days a camera trap was working at a given s
 
 variable_data.csv = data frame site-specific environmental and anthropogenic covariates
 
-### Additive folder
+### Model folders
 
-cc_11022_additive.txt = JAGS model text file for the additive model
+cc_11022_model_type.txt = JAGS model text file for the named model type
 
-cc_11022_additive_gof.txt = JAGS model text file for additive model's goodness-of-fit test
+cc_11022_model_type_gof.txt = JAGS model text file for the named model type's goodness-of-fit test
